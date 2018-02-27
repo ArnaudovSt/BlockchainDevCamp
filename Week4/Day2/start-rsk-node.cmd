@@ -1,0 +1,1 @@
+java -Drsk.conf.file=rsk-node.conf -cp rskj-core-0.4.0-BAMBOO-all co.rsk.Start
